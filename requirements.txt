@@ -1,0 +1,6 @@
+aiortc
+aiohttp
+av
+PySide6-Essentials
+sounddevice
+numpy
